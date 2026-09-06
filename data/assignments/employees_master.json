@@ -1,0 +1,77 @@
+{
+  "employees": [
+    {
+      "id": "EMP001",
+      "name": "FICO Head",
+      "modules": [
+        "FICO"
+      ],
+      "email": "ficohead@nxzen.com",
+      "max_daily_tickets": 20,
+      "status": "available",
+      "total_assigned": 0,
+      "created_at": "2026-01-13T09:38:00.215299"
+    },
+    {
+      "id": "EMP002",
+      "name": "BASIS Head",
+      "modules": [
+        "Basis"
+      ],
+      "email": "basishead@nxzen.com",
+      "max_daily_tickets": 20,
+      "status": "available",
+      "total_assigned": 2,
+      "created_at": "2026-01-13T09:38:28.879917"
+    },
+    {
+      "id": "EMP003",
+      "name": "ABAP Head",
+      "modules": [
+        "ABAP"
+      ],
+      "email": "abaphead@nxzen.com",
+      "max_daily_tickets": 20,
+      "status": "available",
+      "total_assigned": 0,
+      "created_at": "2026-01-13T09:38:51.284056"
+    },
+    {
+      "id": "EMP004",
+      "name": "HR Head",
+      "modules": [
+        "HR & Payroll"
+      ],
+      "email": "hrhead@nxzen.com",
+      "max_daily_tickets": 20,
+      "status": "available",
+      "total_assigned": 3,
+      "created_at": "2026-01-13T09:39:12.315277"
+    },
+    {
+      "id": "EMP005",
+      "name": "Procurement Head",
+      "modules": [
+        "Procurement"
+      ],
+      "email": "prochead@nxzen.com",
+      "max_daily_tickets": 20,
+      "status": "available",
+      "total_assigned": 2,
+      "created_at": "2026-01-13T09:39:38.055074"
+    },
+    {
+      "id": "EMP006",
+      "name": "Connections Head",
+      "modules": [
+        "Connections"
+      ],
+      "email": "connhead@nxzen.com",
+      "max_daily_tickets": 20,
+      "status": "available",
+      "total_assigned": 0,
+      "created_at": "2026-01-13T09:40:02.753247"
+    }
+  ],
+  "last_updated": "2026-01-29T19:12:56.224946"
+}
